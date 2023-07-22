@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Verilog**
 
-- 👨‍💻 All of my projects are available at [https://bhatbharath.github.io/Portfolio/](https://bhatbharath.github.io/Portfolio/)
+- 👨‍💻 Have a look at my profile [https://bhatbharath.github.io/Portfolio/](https://bhatbharath.github.io/Portfolio/)
 
 - 💬 Ask me about **Verilog, HTML5, CSS**
 
-- 📫 How to reach me **bharathbhat2805@gmail.com**
+- 📫 Wanna say Hi? **bharathbhat2805@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
