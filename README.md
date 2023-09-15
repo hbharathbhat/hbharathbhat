@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Verilog**
 
-- 👨‍💻 Have a look at my profile [https://bhatbharath.github.io/Portfolio/](https://bhatbharath.github.io/Portfolio/)
+- 👨‍💻 Have a look at my [Portfolio](https://bhatbharath.github.io/Portfolio/)
 
 - 💬 Ask me about **Verilog, HTML5, CSS, Python**
 
