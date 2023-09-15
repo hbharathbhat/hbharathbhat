@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhatbharath&label=Profile%20views&color=0e75b6&style=flat" alt="bhatbharath" /> </p>
 
-<p align="center> ![127848-happy-spaceman](https://github.com/bhatbharath/bhatbharath/assets/120124748/fd1df6ed-1f62-41de-b392-a0c726c87e83)</p>
-
-
 - 🌱 I’m currently learning **Verilog**
 
 - 👨‍💻 Have a look at my profile [https://bhatbharath.github.io/Portfolio/](https://bhatbharath.github.io/Portfolio/)
