@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhatbharath&label=Profile%20views&color=0e75b6&style=flat" alt="bhatbharath" /> </p>
 
-- 🌱 I’m currently learning **Verilog**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 Have a look at my [Portfolio](https://bhatbharath.github.io/Portfolio/)
 
-- 💬 Ask me about **Verilog, HTML5, CSS, Python**
+- 💬 Ask me about **Verilog, HTML5, CSS, Python, C, C++**
 
 - 📫 Wanna say Hi? **bharathbhat2805@gmail.com**
 
