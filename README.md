@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 Have a look at my [Portfolio](https://bhatbharath.github.io/Portfolio/)
+- 👨‍💻 Have a look at my [Portfolio](https://hbharathbhat.github.io/Portfolio/)
 
 - 💬 Ask me about **Verilog, HTML5, CSS, Python, C, C++**
 
