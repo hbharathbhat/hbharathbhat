@@ -1,15 +1,17 @@
-<h1 align="center">Namasthe 🙏🏽, Bharath Here</h1>
+<h1 align="center">Namasthe 🙏🏽, Bharath from Benagaluru here.</h1>
 <h3 align="center">A passionate Hardware Designer from India 🇮🇳</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhatbharath&label=Profile%20views&color=0e75b6&style=flat" alt="bhatbharath" /> </p>
 
-- 🌱 I’m currently learning **C++**
+<!--- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 Have a look at my [Portfolio](https://hbharathbhat.github.io/Portfolio/)
 
 - 💬 Ask me about **Verilog, HTML5, CSS, Python, C, C++**
 
-- 📫 Wanna say Hi? **bharathbhat2805@gmail.com**
+- 📫 Wanna say Hi? **bharathbhat2805@gmail.com**-->
+You are free to contact me at bharathbhat2805@gmail.com 
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
