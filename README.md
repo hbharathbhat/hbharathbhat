@@ -19,8 +19,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">Python · Verilog · C · Web Dev<br>Visual Studio Code · Xilinx Vivado/ISE · Matlab · Multisim · Cedar<br>Jupyter Notebook · Spyder · Cadence</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatbharath&show_icons=true&locale=en&layout=compact" alt="bhatbharath" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatbharath&show_icons=true&locale=en&layout=compact" alt="bhatbharath" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhatbharath&show_icons=true&locale=en" alt="bhatbharath" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatbharath&" alt="bhatbharath" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatbharath&" alt="bhatbharath" /></p>-->
