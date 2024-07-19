@@ -21,10 +21,9 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">Python · Verilog · C · Web Dev<br>Visual Studio Code · Xilinx Vivado/ISE · Matlab · Multisim · Cedar<br>Jupyter Notebook · Spyder · Cadence</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbharathbhat)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbharathbhat&show_icons=true&locale=en&layout=compact" alt="hbharathbhat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbharathbhat&show_icons=true&locale=en&layout=compact" alt="hbharathbhat"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hbharathbhat&show_icons=true&locale=en" alt="hbharathbhat" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hbharathbhat&show_icons=true&locale=en" alt="hbharathbhat"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hbharathbhat&" alt="hbharathbhat" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hbharathbhat&" alt="hbharathbhat" /></p>
