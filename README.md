@@ -10,7 +10,7 @@
 - 💬 Ask me about **Verilog, HTML5, CSS, Python, C, C++**
 
 - 📫 Wanna say Hi? **bharathbhat2805@gmail.com**-->
-<p align="center">You are free to contact me at <a href="mailto:bharathbhat2805@gmail.com">bharathbhat2805@gmail.com</a><br>, <a href="https://hbharathbhat.github.io/Portfolio">Portfolio</a> </p>
+<p align="center">You are free to contact me at <a href="mailto:bharathbhat2805@gmail.com">bharathbhat2805@gmail.com</a>, <a href="https://hbharathbhat.github.io/Portfolio">Portfolio</a> </p>
 
 
 <h3 align="center">Connect with me:</h3>
