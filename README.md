@@ -17,15 +17,13 @@
 <p align="center">
 <!-- <a href="https://www.linkedin.com/in/hbharathbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hbharathbhat" height="30" width="40" /></a> -->
   <a href="https://twitter.com/hbharathbhat">
-  <img alt="H Bharath Bhat| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>&nbsp;&nbsp;
+  <img alt="H Bharath Bhat| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hbharathbhat/">
   <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>&nbsp;&nbsp;
 <a href="https://t.me/hbharathbhat">
   <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/hbharathbhat/">
-  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>&nbsp;&nbsp;
+  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&nbsp;&nbsp;
 <!-- <a href="https://www.reddit.com/user/Sughosh-Dixit">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
