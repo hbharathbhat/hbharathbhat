@@ -33,7 +33,7 @@
 <!-- <a href="https://www.codechef.com/users/invincible008">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> -->
-</p><br>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">Python · Verilog · C · Web Dev<br>Visual Studio Code · Xilinx Vivado/ISE · Matlab · Multisim · Cedar<br>Jupyter Notebook · Spyder · Cadence</p>
