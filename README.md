@@ -24,13 +24,13 @@
   <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/hbharathbhat/">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&nbsp;&nbsp;
-<!-- <a href="https://www.reddit.com/user/Sughosh-Dixit">
+<!-- <a href="https://www.reddit.com/user/">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
-<!-- <a href="https://leetcode.com/invincible0809/">
+<!-- <a href="https://leetcode.com//">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> -->
-<!-- <a href="https://www.codechef.com/users/invincible008">
+<!-- <a href="https://www.codechef.com/users/">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> -->
 </p>
@@ -41,6 +41,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbharathbhat&show_icons=true&locale=en&layout=compact" alt="hbharathbhat"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hbharathbhat&show_icons=true&locale=en" alt="hbharathbhat"/></p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hbharathbhat&show_icons=true&locale=en" alt="hbharathbhat"/></p>-->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hbharathbhat&" alt="hbharathbhat" /></p>
