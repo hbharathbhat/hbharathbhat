@@ -22,8 +22,8 @@
 <p align="center">Python · Verilog · C · Web Dev<br>Visual Studio Code · Xilinx Vivado/ISE · Matlab · Multisim · Cedar<br>Jupyter Notebook · Spyder · Cadence</p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbharathbhat&show_icons=true&locale=en&layout=compact" alt="hbharathbhat"/><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbharathbhat&show_icons=true&locale=en&layout=compact" alt="hbharathbhat"/></p><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hbharathbhat&show_icons=true&locale=en" alt="hbharathbhat"/><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hbharathbhat&show_icons=true&locale=en" alt="hbharathbhat"/></p><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hbharathbhat&" alt="hbharathbhat" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hbharathbhat&" alt="hbharathbhat" /></p>
