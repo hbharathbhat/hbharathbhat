@@ -23,7 +23,7 @@
   <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>&nbsp;&nbsp;
 <a href="https://t.me/hbharathbhat">
-  <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
+<img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/hbharathbhat/">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
