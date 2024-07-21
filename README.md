@@ -28,7 +28,7 @@
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
 <a href="https://leetcode.com/hbharathbhat/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>&nbsp;&nbsp;
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>&nbsp;&nbsp;
 <!-- <a href="https://www.codechef.com/users/">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> -->
