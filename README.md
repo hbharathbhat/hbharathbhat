@@ -36,7 +36,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">Python · Verilog · C · Web Dev<br>Visual Studio Code · Xilinx Vivado/ISE · Matlab · Multisim · Cedar<br>Jupyter Notebook · Spyder · Cadence</p>
-<p align="center"><h2>Notes</h2><br>· <a href="hbharathbhat.github.io/python">Python</a><br>· <a href="hbharathbhat.github.io/verilog">Verilog</a><br></p>
+<p align="center"><h2 align="center">Notes</h2>· <a href="hbharathbhat.github.io/python">Python</a><br>· <a href="hbharathbhat.github.io/verilog">Verilog</a><br></p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbharathbhat&show_icons=true&locale=en&layout=compact" alt="hbharathbhat"/></p>
