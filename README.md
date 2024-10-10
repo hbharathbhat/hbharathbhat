@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">Python · Verilog · C · Web Dev<br>Visual Studio Code · Xilinx Vivado/ISE · Matlab · Multisim · Cedar<br>Jupyter Notebook · Spyder · Cadence</p>
+<p align="center">Python · Verilog · C · Web Dev<br>Xilinx Vivado/ISE · Cadence · VS Code · Git · Jupyter Notebook · Spyder · Code Blocks<br>Vega Processors: Aries V2.0 and V3.0 · Arduino UNO<br>Linux · Windows · Multisim · Tina-Ti · Cedar · Matlab · Arduino IDE</p>
 <p align="center"><h2 align="center">Notes</h2>· <a href="https://hbharathbhat.github.io/python">Python</a><br>· <a href="https://hbharathbhat.github.io/verilog">Verilog</a><br></p>
 
 
