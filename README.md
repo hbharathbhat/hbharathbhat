@@ -13,7 +13,7 @@
 <p align="center">You are free to contact me at <a href="mailto:bharathbhat2805@gmail.com">bharathbhat2805@gmail.com</a>, <a href="https://hbharathbhat.github.io/Portfolio">Portfolio</a> </p>
 
 
-<h3 align="center" color="white">Connect with me:</h3>
+<h3 align="center" color="black">Connect with me:</h3>
 <p align="center">
 <!-- <a href="https://www.linkedin.com/in/hbharathbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hbharathbhat" height="30" width="40" /></a> -->
 <!--   <a href="https://twitter.com/hbharathbhat">
