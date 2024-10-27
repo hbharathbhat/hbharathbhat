@@ -44,7 +44,7 @@
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hbharathbhat&show_icons=true&locale=en" alt="hbharathbhat"/></p>-->
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hbharathbhat&theme=meta-light&border_radius=5.5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbharathbhat&layout=pie)](https://github.com/hbharathbhat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
      
